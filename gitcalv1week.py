@@ -11,7 +11,7 @@ x1 = -200
 y1 = 200
 side = 20
 #=======================================================================
-csv = open(r'C:\Users\amlan\Desktop\CSV\GIT CAL AMLAN\gitlib.csv')
+csv = open(".CSV location")
 d = []
 h = []
 for col in csv:
@@ -72,7 +72,7 @@ for j in range(1,n+1):
     t.goto(x,y)
 
 cv = turtle.getcanvas()
-cv.postscript(file=r"C:\Users\amlan\Desktop\CSV\GIT CAL AMLAN\calender.ps", colormode='color')
+cv.postscript(file=".ps location", colormode='color')
 
 turtle.done()
 
