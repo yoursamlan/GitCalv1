@@ -16,4 +16,4 @@ You can input data directly from csv
 
 ![Screen Shot](https://github.com/yoursamlan/GitCalv1/blob/master/Capture.PNG)
 
-![Screen Shot](https://github.com/yoursamlan/GitCalv1/blob/master/capture2.PNG)
+![Screen Shot](https://github.com/yoursamlan/GitCalv1/blob/master/Capture.jpg)
