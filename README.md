@@ -17,3 +17,7 @@ You can input data directly from csv
 ![Screen Shot](https://github.com/yoursamlan/GitCalv1/blob/master/Capture.PNG)
 
 ![Screen Shot](https://github.com/yoursamlan/GitCalv1/blob/master/Capture.jpg)
+
+### Export Image
+
+You can export the result in postscript (.ps) format also.
